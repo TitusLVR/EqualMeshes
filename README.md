@@ -21,3 +21,7 @@ After selection, a redo panel is displayed at the bottom left of the 3D Viewport
 Works that helped implement this software so far:
   * **B.K.P Horn**, Closed Form Solution of Absolute Orientation Using Unit Quaternions.
   * **Besl**, A Method for Registration of 3D Shapes.
+
+# Original starter and creator of EqualMeshes:
+Is Nacho Sanchez https://blenderartists.org/u/nachgsanchez/summary
+BlenderArtists topic link: https://blenderartists.org/t/equal-meshes/
